@@ -1,0 +1,10 @@
+* grid-formation
+
+Mirror of https://git.mfiano.net/mfiano/grid-formation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/grid-formation.git   |
+| commit  | {"messa  |
+| systems | grid-formation |
+|---------+-------------------------------------------|
+

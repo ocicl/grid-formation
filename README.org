@@ -4,7 +4,7 @@ Mirror of https://git.mfiano.net/mfiano/grid-formation
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/mfiano/grid-formation.git   |
-| commit  | {"messa  |
+| commit  | faee7d7  |
 | systems | grid-formation |
 |---------+-------------------------------------------|
 
